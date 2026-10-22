@@ -8,4 +8,6 @@ A Hermes agent skill for writing sourced LinkedIn posts with benchmark visuals, 
 
 Install: copy `linkedin-posts/` into `$HERMES_HOME/skills/social-media/`. Link LinkedIn first (`composio link linkedin`); the skill never handles passwords or tokens.
 
+Created by Amit Elgabsi ([@amitamit10](https://github.com/amitamit10)) together with his Hermes agent.
+
 License: MIT.

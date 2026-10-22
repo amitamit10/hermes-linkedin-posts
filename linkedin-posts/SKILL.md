@@ -2,7 +2,7 @@
 name: linkedin-posts
 description: Write sourced LinkedIn posts with benchmark visuals.
 version: 0.1.0
-author: Hermes
+author: amitamit10 (Amit Elgabsi), Hermes
 license: MIT
 platforms: [linux]
 metadata:
